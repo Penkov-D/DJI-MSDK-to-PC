@@ -78,9 +78,9 @@ android {
 
 dependencies {
 
-    implementation "com.dji:dji-sdk-v5-aircraft:5.9.0"
+    implementation "com.dji:dji-sdk-v5-aircraft:5.14.0"
     implementation 'org.jetbrains:annotations:15.0'
-    compileOnly "com.dji:dji-sdk-v5-aircraft-provided:5.9.0"
+    compileOnly "com.dji:dji-sdk-v5-aircraft-provided:5.14.0"
 
     implementation 'androidx.core:core-ktx:1.9.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'

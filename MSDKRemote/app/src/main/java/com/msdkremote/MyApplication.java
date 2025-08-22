@@ -18,6 +18,6 @@ public class MyApplication extends Application
         super.attachBaseContext(base);
         // Before calling install, do not call any MSDK related
         // Basically, chines viruses
-        com.secneo.sdk.Helper.install(this);
+        com.cySdkyc.clx.Helper.install(this);
     }
 }
